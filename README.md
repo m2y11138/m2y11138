@@ -4,7 +4,6 @@ I enjoy building practical products, learning by doing, and contributing to open
 ### About me
 - 🎓 CS student at Southeast University (SEU)
 - 💻 Currently learning: React, TypeScript, Web engineering
-- ⚙️ Background: Java backend, monolithic / microservice / serverless architectures
 - 🌱 Goal: Build useful tools and contribute to the world through technology
 ### Current focus
 - Frontend architecture and engineering best practices
