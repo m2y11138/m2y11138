@@ -28,7 +28,7 @@
 ### ⚡ Beyond the code
 ![Badminton](https://img.shields.io/badge/-Badminton-3E9B74?style=flat-square&logo=badminton&logoColor=white)
 ![Music](https://img.shields.io/badge/-Music-FF6B6B?style=flat-square&logo=spotify&logoColor=white)
-![Red Alert](https://img.shields.io/badge/-Red_Alert-CC0000?style=flat-square&logo=command&logoColor=white)
+![Red Alert3](https://img.shields.io/badge/-Red_Alert-CC0000?style=flat-square&logo=command&logoColor=white)
 ![Gaming](https://img.shields.io/badge/-Gaming-9B59B6?style=flat-square&logo=steam&logoColor=white)
 
 > 💡 *Great code, like a great game, requires strategy, practice, and a little bit of fun.*
