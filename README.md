@@ -17,3 +17,5 @@ I enjoy building practical products, learning by doing, and contributing to open
 - Feel free to explore my repositories and open an issue or discussion.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2y11138&show_icons=true&theme=radical)
+
+![Coding](https://img.shields.io/badge/当前状态-疯狂敲码中-red?style=for-the-badge&logo=visual-studio-code)
