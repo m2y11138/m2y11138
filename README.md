@@ -12,6 +12,4 @@ I enjoy building practical products, learning by doing, and contributing to open
 ### Let's connect
 - Feel free to explore my repositories and open an issue or discussion.
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2y11138&theme=github-dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2y11138&show_icons=true&theme=radical)
