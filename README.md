@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=M2Y&fontSize=70&fontAlignY=35&animation=twinkling" />
+</p>
 ## Hi there, I'm M2Y 👋
 
 ### About me
