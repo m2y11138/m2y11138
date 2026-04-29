@@ -12,4 +12,6 @@ I enjoy building practical products, learning by doing, and contributing to open
 ### Let's connect
 - Feel free to explore my repositories and open an issue or discussion.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2y11138&hide_title=true&hide_border=true)
+## 📈 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2y11138&theme=github-dark&hide_border=true)
