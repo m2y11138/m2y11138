@@ -1,6 +1,5 @@
 ## Hi there, I'm M2Y 👋
-I'm a Computer Science student at SEU, currently focused on frontend development.  
-I enjoy building practical products, learning by doing, and contributing to open-source projects.
+
 ### About me
 - 🎓 CS student at **Southeast University (SEU)**
   ![SEU](https://img.shields.io/badge/东南大学-计算机-blue?style=flat-square&logo=google-scholar)
