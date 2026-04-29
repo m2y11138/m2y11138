@@ -16,7 +16,6 @@ I enjoy building practical products, learning by doing, and contributing to open
 
 💬 Ask me about React, TypeScript, or frontend tricks
 
-📫 How to reach me: 你的邮箱或Twitter (用代码块格式)
 ### Let's connect
 - Feel free to explore my repositories and open an issue or discussion.
 
