@@ -17,6 +17,7 @@
 
 ### Let's connect
 - Feel free to explore my repositories and open an issue or discussion.
+- ✍️ [Read my blog](https://m2y11138.github.io/) —— frontend learning & project notes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2y11138&show_icons=true&theme=radical)
 
