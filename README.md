@@ -25,4 +25,15 @@
 - Feel free to explore my repositories and open an issue or discussion.
 - ✍️ [Read my blog](https://m2y11138.github.io/) —— frontend learning & project notes
 
+### ⚡ Beyond the code
+When I'm not in front of the screen, you can find me:
+
+- 🏸 **Hitting the court** – badminton is my go-to sport
+- 🎧 **Lost in music** – from indie to classic rock
+- 🎮 **Commanding the battlefield** – Red Alert veteran (let's 1v1 if you dare 😎)
+- 🕹️ **Exploring other worlds** – always down for a good game
+
+> 💡 *Great code, like a great game, requires strategy, practice, and a little bit of fun.*
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2y11138&show_icons=true&theme=radical)
