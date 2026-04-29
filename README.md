@@ -26,9 +26,3 @@
 - ✍️ [Read my blog](https://m2y11138.github.io/) —— frontend learning & project notes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2y11138&show_icons=true&theme=radical)
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&theme=summer">
-</picture>
