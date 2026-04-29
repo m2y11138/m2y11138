@@ -11,3 +11,5 @@ I enjoy building practical products, learning by doing, and contributing to open
 - Writing clean, maintainable, production-ready code
 ### Let's connect
 - Feel free to explore my repositories and open an issue or discussion.
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2y11138)
