@@ -9,7 +9,7 @@ I enjoy building practical products, learning by doing, and contributing to open
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   ![Web Engineering](https://img.shields.io/badge/-Web_工程-6C63FF?style=flat-square)
 - 🌱 Goal: Build useful tools and contribute to the world
-### Current focus
+### Current focus ![Coding](https://img.shields.io/badge/当前状态-疯狂敲码中-red?style=for-the-badge&logo=visual-studio-code)
 🔭 I’m currently working on WebView / H5 hybrid apps
 
 👯 I’m looking to collaborate on open-source projects
@@ -21,4 +21,4 @@ I enjoy building practical products, learning by doing, and contributing to open
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2y11138&show_icons=true&theme=radical)
 
-![Coding](https://img.shields.io/badge/当前状态-疯狂敲码中-red?style=for-the-badge&logo=visual-studio-code)
+
