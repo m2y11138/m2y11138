@@ -6,12 +6,6 @@
 
 ## Hi there, I'm M2Y 👋
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&theme=summer">
-</picture>
-
 ### About me
 - 🎓 CS student at **Southeast University (SEU)**
   ![SEU](https://img.shields.io/badge/东南大学-计算机-blue?style=flat-square&logo=google-scholar)
@@ -33,4 +27,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m2y11138&show_icons=true&theme=radical)
 
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=m2y11138&theme=summer">
+</picture>
