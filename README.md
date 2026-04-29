@@ -26,12 +26,10 @@
 - ✍️ [Read my blog](https://m2y11138.github.io/) —— frontend learning & project notes
 
 ### ⚡ Beyond the code
-When I'm not in front of the screen, you can find me:
-
-- 🏸 **Hitting the court** – badminton is my go-to sport
-- 🎧 **Lost in music** – from indie to classic rock
-- 🎮 **Commanding the battlefield** – Red Alert veteran (let's 1v1 if you dare 😎)
-- 🕹️ **Exploring other worlds** – always down for a good game
+![Badminton](https://img.shields.io/badge/-Badminton-3E9B74?style=flat-square&logo=badminton&logoColor=white)
+![Music](https://img.shields.io/badge/-Music-FF6B6B?style=flat-square&logo=spotify&logoColor=white)
+![Red Alert](https://img.shields.io/badge/-Red_Alert-CC0000?style=flat-square&logo=command&logoColor=white)
+![Gaming](https://img.shields.io/badge/-Gaming-9B59B6?style=flat-square&logo=steam&logoColor=white)
 
 > 💡 *Great code, like a great game, requires strategy, practice, and a little bit of fun.*
 
