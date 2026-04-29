@@ -10,9 +10,13 @@ I enjoy building practical products, learning by doing, and contributing to open
   ![Web Engineering](https://img.shields.io/badge/-Web_工程-6C63FF?style=flat-square)
 - 🌱 Goal: Build useful tools and contribute to the world
 ### Current focus
-- Frontend architecture and engineering best practices
-- WebView / H5 hybrid app development
-- Writing clean, maintainable, production-ready code
+🔭 I’m currently working on WebView / H5 hybrid apps
+
+👯 I’m looking to collaborate on open-source projects
+
+💬 Ask me about React, TypeScript, or frontend tricks
+
+📫 How to reach me: 你的邮箱或Twitter (用代码块格式)
 ### Let's connect
 - Feel free to explore my repositories and open an issue or discussion.
 
